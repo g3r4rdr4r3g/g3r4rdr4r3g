@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Gerard
-I'm currently working as a Software Engineer. I love to solve problems and learn new technologies.
+I'm a Software Engineer who loves to solve problems and learn new technologies.
  - More about me : [Personal Website](https://g3r4rdr4r3g.github.io) 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=g3r4rdr4r3g&count_private=true&show_icons=true&include_all_commits=true)
